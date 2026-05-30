@@ -18,8 +18,8 @@ A 13×9 pan of creamy, cheesy, crispy-topped comfort.
 - 6 tbsp all-purpose flour
 - 4 cups whole milk
 - 1 tsp salt
-- 1 tsp black pepper
-- 1 tsp paprika
+- 1/2 tsp black pepper
+- 1/2 tsp paprika
 - 1 tsp garlic powder
 - 1 tsp onion powder
 - 1 tsp dry mustard
