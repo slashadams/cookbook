@@ -4,7 +4,7 @@ Crispy fried shell, warm pound cake blanket, cold ice cream center. The most tec
 
 ## Info
 
-- **Yield:** Per ball of ice cream
+- **Yield:** 1 large ball (serves 2-3) or individual single-serve
 - **Time:** ~20 min active + 4+ hours freezing
 - **Oil temp:** ~350°F
 
@@ -20,7 +20,7 @@ Crispy fried shell, warm pound cake blanket, cold ice cream center. The most tec
 
 ## Instructions
 
-1. Scoop 2-3 small balls of ice cream and pack them together into a single firm ball.
+1. **For a shareable ball:** Scoop 4-5 generous scoops of ice cream and pack them into a large, firm ball. **For single serve:** Use 1-2 scoops and shape into a smaller ball.
 2. Press thinly sliced pound cake around the ice cream, covering as much surface as possible.
 3. Use small scraps of pound cake to patch any exposed gaps — every square inch of ice cream must be covered by cake.
 4. Roll the ball tightly in plastic wrap, twisting the ends to compress everything into a firm, round shape.
