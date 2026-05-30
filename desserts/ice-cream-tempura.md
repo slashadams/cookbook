@@ -36,5 +36,6 @@ Crispy fried shell, warm pound cake blanket, cold ice cream center. The most tec
 
 - **Pound cake is the insulation** — the cake layer is what keeps the ice cream from melting during frying. Don't skip patching the gaps.
 - **Freeze solid.** Unlike the cheesecake version, this one needs to be fully frozen before frying because the ice cream is exposed to heat through the cake layer.
+- **Fry until the batter is set** — the goal is to cook the batter through, not heat the filling. Once the batter is golden, crisp, and fully cooked, it's done. The inside should remain frozen/cold. Over-frying risks melting the center.
 - **Work fast once unwrapped** — batter and fry immediately. If it starts softening, throw it back in the freezer for 15 minutes.
 - **Batter and frying:** See [cheesecake tempura](cheesecake-tempura.md) for full notes on tempura batter, ice bath technique, and frying tips.
