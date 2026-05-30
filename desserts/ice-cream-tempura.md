@@ -20,10 +20,10 @@ Crispy fried shell, warm pound cake blanket, cold ice cream center. The most tec
 
 ## Instructions
 
-1. **For a shareable ball:** Scoop 4-5 generous scoops of ice cream and pack them into a large, firm ball. **For single serve:** Use 1-2 scoops and shape into a smaller ball.
+1. **For a shareable ball (restaurant spec):** Pack the ice cream into a log/cylinder roughly 6" long × 5" diameter. **For single serve:** Use 1-2 scoops and shape into a smaller ball.
 2. Press thinly sliced pound cake around the ice cream, covering as much surface as possible.
 3. Use small scraps of pound cake to patch any exposed gaps — every square inch of ice cream must be covered by cake.
-4. Roll the ball tightly in plastic wrap, twisting the ends to compress everything into a firm, round shape.
+4. Roll the log tightly in plastic wrap, twisting the ends to compress everything into a firm, uniform cylinder.
 5. Freeze solid — at least 4 hours, preferably overnight.
 6. When ready to fry, heat oil to ~350°F and prepare tempura batter (see notes).
 7. Unwrap the frozen ball and dip into batter, coating evenly. Work quickly.
