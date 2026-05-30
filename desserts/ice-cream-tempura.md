@@ -26,10 +26,11 @@ Crispy fried shell, warm pound cake blanket, cold ice cream center. The most tec
 4. Roll the log tightly in plastic wrap, twisting the ends to compress everything into a firm, uniform cylinder.
 5. Freeze solid — at least 4 hours, preferably overnight.
 6. When ready to fry, heat oil to ~350°F and prepare tempura batter (see notes).
-7. Unwrap the frozen ball and dip into batter, coating evenly. Work quickly.
-8. Carefully lower into hot oil. Fry for about 60-90 seconds until the batter is golden and crispy.
+7. Unwrap the frozen cylinder and dip into batter, coating evenly. Work quickly.
+8. Carefully lower into hot oil. Fry for about 90-120 seconds until the batter is golden and crispy.
 9. Remove and drain on a paper towel for a few seconds.
-10. Plate immediately. Dust with powdered sugar, drizzle chocolate syrup, and top with diced strawberries.
+10. Slice crosswise into individual portions (2-3 slices, depending on size).
+11. Plate each slice. Dust with powdered sugar, drizzle chocolate syrup, and top with diced strawberries.
 
 ## Notes
 
