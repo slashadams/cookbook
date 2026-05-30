@@ -20,13 +20,14 @@ Hot, crispy-shelled cheesecake with a cool, creamy center — served with ice cr
 
 ## Instructions
 
-1. Slice cheesecake into individual portions. Wrap each slice and freeze solid — at least 4 hours, preferably overnight.
+1. Slice cheesecake into individual portions, then cut each slice in half diagonally. Keep well-chilled in the refrigerator.
 2. Heat oil to ~350°F in a pot or deep fryer.
 3. Prepare tempura batter per package directions (see notes).
-4. Working one at a time, dip a frozen cheesecake slice into the batter, coating evenly. Let excess drip off.
-5. Carefully lower into hot oil. Fry for about 60-90 seconds until the batter is golden and crispy.
-6. Remove and drain on a paper towel for a few seconds.
-7. Plate immediately with a scoop of ice cream. Dust with powdered sugar, drizzle chocolate syrup, and top with diced strawberries.
+4. Nest the batter bowl over another bowl of ice water to keep it cold.
+5. Working one at a time, dip a chilled cheesecake half into the batter, coating evenly. Let excess drip off.
+6. Carefully lower into hot oil. Fry for about 60-90 seconds until the batter is golden and crispy.
+7. Remove and drain on a paper towel for a few seconds.
+8. Plate with a scoop of ice cream. Dust with powdered sugar, drizzle chocolate syrup, and top with diced strawberries.
 
 ## Notes
 
@@ -34,5 +35,5 @@ Hot, crispy-shelled cheesecake with a cool, creamy center — served with ice cr
 - **Batter consistency:** You're looking for a thin, lacy batter — thick enough to coat but thin enough that it doesn't clump. Think heavy cream, not pancake batter. If it's too thick, add a splash more ice-cold water. If too thin, a pinch more powder.
 - **Ice-cold water is key** — the batter should be mixed with cold water and used immediately. A lumpy batter is fine; over-mixing makes it dense.
 - **Keep the batter chilled** — set the bowl over another bowl of ice water while you work. A cold batter stays light in color and absorbs less oil during frying. This applies to any tempura batter, not just desserts.
-- **Freeze the cheesecake solid.** A cold, firm center is what makes this work — the outside fries and crisps before the inside has time to warm up. Rushing the freeze = a puddle.
+- **Slice diagonally for even cooking** — halving each slice diagonally creates two thinner pieces that fry evenly without needing to freeze. The cheesecake stays chilled (not frozen), and the diagonal cut gives more surface area for the batter to cling to.
 - **Fry one at a time.** Don't crowd the pot. Each slice drops the oil temp and needs room to cook evenly.
