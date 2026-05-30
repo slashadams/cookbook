@@ -46,3 +46,9 @@ A 13×9 pan of creamy, cheesy, crispy-topped comfort.
 6. Fold sauce into pasta. Pour into greased 13×9 dish.
 7. Top with reserved cheese. Mix panko with melted butter and spread over top.
 8. Bake at 350°F for 25–30 minutes until golden and bubbling.
+
+## Notes
+
+- **Thickness:** 6 tbsp flour to 4 cups milk (1.5 tbsp per cup) creates a sturdier béchamel than standard recipes. Combined with 20 oz of cheese and a 25-30 minute bake, this produces a rich, dense mac & cheese that holds its shape — not a thin, Alfredo-like sauce.
+- **Cheese reduction:** Want it lighter? Drop the Monterey Jack and cut the cheddar and Colby Jack to 6 oz each (14 oz total). The sauce will still be thick but less overwhelming.
+- **Egg option:** For even more set/custard texture, beat 1 egg into the milk before adding to the roux. Don't let it scramble — temper it with a splash of warm milk first.
