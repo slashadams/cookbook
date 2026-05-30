@@ -33,5 +33,6 @@ Hot, crispy-shelled cheesecake with a cool, creamy center — served with ice cr
 - **Tempura powder is fine.** Pre-made tempura mix is perfectly acceptable — no need to make batter from scratch. Just follow the package directions. It may take a few tries to get the consistency right (see below).
 - **Batter consistency:** You're looking for a thin, lacy batter — thick enough to coat but thin enough that it doesn't clump. Think heavy cream, not pancake batter. If it's too thick, add a splash more ice-cold water. If too thin, a pinch more powder.
 - **Ice-cold water is key** — the batter should be mixed with cold water and used immediately. A lumpy batter is fine; over-mixing makes it dense.
+- **Keep the batter chilled** — set the bowl over another bowl of ice water while you work. A cold batter stays light in color and absorbs less oil during frying. This applies to any tempura batter, not just desserts.
 - **Freeze the cheesecake solid.** A cold, firm center is what makes this work — the outside fries and crisps before the inside has time to warm up. Rushing the freeze = a puddle.
 - **Fry one at a time.** Don't crowd the pot. Each slice drops the oil temp and needs room to cook evenly.
