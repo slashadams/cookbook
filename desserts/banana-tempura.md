@@ -25,7 +25,7 @@ Warm, crispy battered banana — simple, fast, and a crowd-pleaser.
 3. Prepare tempura batter per package directions (see notes).
 4. Nest the batter bowl over another bowl of ice water to keep it cold.
 5. Working a few at a time, dip banana pieces into the batter. Let excess drip off.
-6. Carefully lower into hot oil. Fry for about 60 seconds until the batter is golden and crisp.
+6. Carefully lower into hot oil. Fry for about 60 seconds until the batter is set, pale, and lacy-crisp.
 7. Remove and drain on a paper towel.
 8. Plate with a scoop of ice cream. Dust with powdered sugar, drizzle chocolate syrup, and top with diced strawberries.
 

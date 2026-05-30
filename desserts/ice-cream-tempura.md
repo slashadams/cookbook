@@ -27,7 +27,7 @@ Crispy fried shell, warm pound cake blanket, cold ice cream center. The most tec
 5. Freeze solid — at least 4 hours, preferably overnight.
 6. When ready to fry, heat oil to ~350°F and prepare tempura batter (see notes).
 7. Unwrap the frozen cylinder and dip into batter, coating evenly. Work quickly.
-8. Carefully lower into hot oil. Fry for about 90-120 seconds until the batter is golden and crispy.
+8. Carefully lower into hot oil. Fry for about 90-120 seconds until the batter is set, pale, and lacy-crisp.
 9. Remove and drain on a paper towel for a few seconds.
 10. Slice crosswise into individual portions (2-3 slices, depending on size).
 11. Plate each slice. Dust with powdered sugar, drizzle chocolate syrup, and top with diced strawberries.
@@ -36,6 +36,6 @@ Crispy fried shell, warm pound cake blanket, cold ice cream center. The most tec
 
 - **Pound cake is the insulation** — the cake layer is what keeps the ice cream from melting during frying. Don't skip patching the gaps.
 - **Freeze solid.** Unlike the cheesecake version, this one needs to be fully frozen before frying because the ice cream is exposed to heat through the cake layer.
-- **Fry until the batter is set** — the goal is to cook the batter through, not heat the filling. Once the batter is golden, crisp, and fully cooked, it's done. The inside should remain frozen/cold. Over-frying risks melting the center.
+- **Fry until the batter is set** — the goal is to cook the batter through, not heat the filling. Once the batter is set, pale, and lacy-crisp, it's done. The inside should remain frozen/cold. Over-frying risks melting the center.
 - **Work fast once unwrapped** — batter and fry immediately. If it starts softening, throw it back in the freezer for 15 minutes.
 - **Batter and frying:** See [cheesecake tempura](cheesecake-tempura.md) for full notes on tempura batter, ice bath technique, and frying tips.

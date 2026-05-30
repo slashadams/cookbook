@@ -25,7 +25,7 @@ Hot, crispy-shelled cheesecake with a cool, creamy center — served with ice cr
 3. Prepare tempura batter per package directions (see notes).
 4. Nest the batter bowl over another bowl of ice water to keep it cold.
 5. Working one at a time, dip a chilled cheesecake half into the batter, coating evenly. Let excess drip off.
-6. Carefully lower into hot oil. Fry for about 60-90 seconds until the batter is golden and crispy.
+6. Carefully lower into hot oil. Fry for about 60-90 seconds until the batter is set, pale, and lacy-crisp.
 7. Remove and drain on a paper towel for a few seconds.
 8. Plate with a scoop of ice cream. Dust with powdered sugar, drizzle chocolate syrup, and top with diced strawberries.
 
