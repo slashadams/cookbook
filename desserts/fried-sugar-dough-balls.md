@@ -1,12 +1,13 @@
-# Fried Sugar Dough Balls
+# Fried Sugar Dough Balls (Ian Fujimoto)
 
-Soft, pillowy fried dough balls coated in sugar — a simple yeasted dough that's proofed, fried, and tossed in sugar while still hot.
+Soft, pillowy fried dough balls coated in sugar — a simple yeasted dough that's proofed, fried, and tossed in sugar while still hot. From Ian Fujimoto.
 
 ## Info
 
 - **Yield:** About 8 dough balls (tennis ball sized)
 - **Time:** ~2.5 hours (including proofing)
 - **Oil temp:** 350°F
+- **Source:** Ian Fujimoto (Facebook reel)
 
 ## Ingredients
 
@@ -50,4 +51,3 @@ Soft, pillowy fried dough balls coated in sugar — a simple yeasted dough that'
 - Coating in sugar while hot is key — it sticks better and creates a light, sweet crust.
 - For a filled version, pipe custard into the cooled balls using a piping tip.
 - These are best eaten fresh and warm.
-- Source: Facebook reel
