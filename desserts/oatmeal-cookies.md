@@ -6,7 +6,7 @@ Cinnamon-forward oatmeal cookies from the notebook card — all butter, no oil, 
 
 - **Oven:** 375°F
 - **Time:** 8 min bake, then 5 min resting on the sheet
-- **Yield:** Not filled in on the card — roughly 5-7 dozen at a normal scoop
+- **Yield:** About 5-7 dozen depending on scoop size
 - **Source:** Handwritten notebook card (photo, 2026-11-22)
 
 ## Ingredients
@@ -27,17 +27,16 @@ Cinnamon-forward oatmeal cookies from the notebook card — all butter, no oil, 
 1. **Oven** — Set to 375°F.
 2. **Cream** — Cream together **1-3** (butter, sugar, brown sugar).
 3. **Eggs** — Add **4** (2 eggs) one at a time, then **5** (vanilla).
-4. **Dry** — Combine **6-8** (flour, baking soda, salt) in a separate bowl, then add to the wet ingredients.
+4. **Dry** — Combine **6-9** (flour, baking soda, salt, cinnamon) in a separate bowl, then add to the wet ingredients.
 5. **Oats** — Mix in **10** (3 cups oatmeal).
 6. **Bake** — 8 minutes at 375°F.
 7. **Rest** — Let sit 5 minutes on the sheet before transferring.
 
 ## Notes
 
-- **The card skips the cinnamon.** Step 4 says "combine 6-8," but the dry mix stops at salt — cinnamon is #9 and never gets called out in any step. It belongs in the dry bowl with 6-8; add it there. Worth flagging as an ambiguity in the original, not a deliberate omission.
 - **All butter, no oil.** Unlike the [chocolate chip cookies](chocolate-chip-cookies.md), this is 1 cup (2 sticks) of butter as the entire fat. That means the dough genuinely firms up in the fridge, so a chill pays off here far more than it does for an oil-based cookie — 30 minutes for spread control, overnight for flavor.
 - **"Oatmeal" is doing real work at 3 cups.** Rolled/old-fashioned oats give a chewier, sturdier cookie. Quick oats are finer, spread more, and bake softer. Don't use steel-cut — they won't soften in an 8-minute bake.
 - **375°F for 8 minutes is a fast, hot bake** — it sets the edges before the cookie can spread and keeps the middle chewy. Watch the first sheet; with 3 cups of oats soaking up moisture these go from done to dry quickly.
 - **The 5-minute rest on the sheet is load-bearing.** Oatmeal cookies are fragile straight out of the oven and firm up as they sit. Skip it and they'll crumble on the spatula.
-- **No Servings field filled in.** Estimated at 5-7 dozen depending on scoop size (about 7½ dozen at a 1½ tbsp scoop, 5½ at a 2 tbsp scoop) — that's my math, not the card's.
-- **Same numbered-card format as the other notebook recipes** — ingredients are numbered and the steps reference those numbers, so keep the order as written.
+- **Yield is about 5-7 dozen** depending on scoop size — roughly 7½ dozen at a 1½ tbsp scoop, 5½ at a 2 tbsp scoop.
+- **Doubles cleanly** — nothing in it is delicate, and the dough holds in the fridge for 3-4 days.

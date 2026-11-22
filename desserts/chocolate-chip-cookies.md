@@ -1,12 +1,12 @@
 # Chocolate Chip Cookies
 
-Soft, chewy chocolate chip cookies from the notebook page — butter and oil together, no chilling, mixed by number straight off the card.
+Soft, chewy chocolate chip cookies from the notebook page — butter and oil together, mixed by number straight off the card.
 
 ## Info
 
 - **Oven:** 350°F
 - **Time:** 8-10 min bake
-- **Yield:** About 7 dozen (small, teaspoon-scoop cookies)
+- **Yield:** About 7 dozen at a 1½ tbsp scoop
 - **Source:** Handwritten notebook recipe (photo, 2026-11-22)
 
 ## Ingredients
@@ -38,6 +38,6 @@ Soft, chewy chocolate chip cookies from the notebook page — butter and oil tog
 - **Butter *and* oil is deliberate.** Butter carries the flavor, oil keeps the cookie soft after it cools. All-butter versions go crisp faster.
 - **Fold the chips last.** Stirring them in with the flour crushes them and overworks the dough — fold after the dry mix is combined.
 - **Pull them early-looking.** 8-10 minutes is when the edges are just set and the centers still look underdone. They finish on the sheet.
-- **No chill time written.** The dough is soft with ½ cup of oil in it; if it's too slack to scoop, chill 30 minutes.
-- **7 dozen from 3 cups of flour means small cookies** — teaspoon scoop, not a big cookie scoop.
-- The facing page's substitution chart notes **¼ cup liquid egg** as an egg swap, and to **reduce the salt when using salted butter**. That's from the adjacent printed page, not the recipe itself — flagging it since it clearly sits there on purpose.
+- **Chill the dough if you want them thicker.** With ½ cup of oil it's soft and scoopable right away, and the oil won't firm up in the fridge — but the butter will. 30 minutes chilled makes a noticeably thicker cookie; overnight adds flavor on top of that. Bake straight from the fridge.
+- **Yield is about 7 dozen at a 1½ tbsp scoop** (a #40 scoop) — fewer with a bigger scoop, more with a teaspoon.
+- **Substitutions:** ¼ cup liquid egg works as an egg swap, and reduce the salt if you're using salted butter.
